@@ -38,6 +38,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Tree
 |  |
@@ -84,8 +85,13 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
