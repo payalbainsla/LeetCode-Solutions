@@ -14,6 +14,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
@@ -92,8 +93,25 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Simulation
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Sliding Window
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
