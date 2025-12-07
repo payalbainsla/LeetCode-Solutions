@@ -66,6 +66,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0015-3sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Prefix Sum
 |  |
