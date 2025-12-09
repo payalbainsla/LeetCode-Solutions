@@ -17,11 +17,13 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3583-count-special-triplets](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Linked List
 |  |
@@ -127,4 +129,8 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
