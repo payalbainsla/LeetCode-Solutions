@@ -77,6 +77,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0151-reverse-words-in-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Prefix Sum
@@ -121,6 +123,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Queue
 |  |
