@@ -13,6 +13,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0283-move-zeroes](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -143,6 +144,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
