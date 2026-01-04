@@ -18,6 +18,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1390-four-divisors](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -146,6 +147,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0392-is-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Queue
@@ -158,6 +160,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0643-maximum-average-subarray-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
