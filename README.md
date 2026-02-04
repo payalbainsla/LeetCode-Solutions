@@ -34,6 +34,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3606-coupon-code-validator](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Queue
 |  |
 | ------- |
