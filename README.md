@@ -124,6 +124,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0015-3sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0761-special-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -158,6 +159,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0392-is-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -235,6 +237,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
