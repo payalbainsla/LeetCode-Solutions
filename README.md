@@ -67,6 +67,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0002-add-two-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
@@ -257,6 +258,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0190-reverse-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
