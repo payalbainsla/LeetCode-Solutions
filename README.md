@@ -16,6 +16,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0485-max-consecutive-ones](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -47,6 +48,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -130,6 +132,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0015-3sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0645-set-mismatch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -265,6 +268,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0067-add-binary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0868-binary-gap) |
