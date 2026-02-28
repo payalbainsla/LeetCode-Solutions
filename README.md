@@ -76,6 +76,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -197,6 +198,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0067-add-binary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3379-transformed-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3379-transformed-array) |
@@ -282,6 +284,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
