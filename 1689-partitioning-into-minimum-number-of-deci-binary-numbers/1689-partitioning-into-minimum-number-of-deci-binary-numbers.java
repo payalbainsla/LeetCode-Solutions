@@ -1,11 +1,11 @@
 class Solution {
     public int minPartitions(String n) {
-        int max = 0;
-        //O(n)
-        for(int i=0; i<n.length(); i++) {
-            int ch = n.charAt(i)-'0';
-            max = Math.max(max, ch);
+        int maxDigit = 0;
+        for (char c : n.toCharArray()) {
+            int digit = c - '0';
+            maxDigit = Math.max(maxDigit, digit);
+            if (maxDigit == 9) return 9; // early exit optimization
         }
-        return max;
+        return maxDigit;
     }
 }
