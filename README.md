@@ -25,6 +25,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1470-shuffle-the-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -158,6 +159,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0334-increasing-triplet-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [1382-balance-a-binary-search-tree](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -250,6 +252,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 ## Matrix
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Heap (Priority Queue)
 |  |
