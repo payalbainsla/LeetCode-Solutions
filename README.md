@@ -88,6 +88,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -202,6 +204,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0067-add-binary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
