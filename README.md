@@ -187,6 +187,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
@@ -221,6 +222,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
@@ -235,6 +237,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1004-max-consecutive-ones-iii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
