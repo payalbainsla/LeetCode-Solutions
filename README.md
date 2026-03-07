@@ -83,6 +83,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1925-count-square-sum-triples](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3623-count-number-of-trapezoids-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
@@ -200,6 +201,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2485-find-the-pivot-integer](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3714-longest-balanced-substring-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
