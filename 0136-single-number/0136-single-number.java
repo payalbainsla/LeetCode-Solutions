@@ -1,9 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
         int ans = 0;
-      for(int n : nums){
-       ans ^= n;
-      }
+        for(int i = 0; i < nums.length; i++) {
+            ans ^= nums[i];   // har element ko XOR karo
+        }
         return ans;
     }
 }
