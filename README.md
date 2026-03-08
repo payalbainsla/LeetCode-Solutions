@@ -10,6 +10,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0011-container-with-most-water](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -298,6 +299,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0645-set-mismatch) |
