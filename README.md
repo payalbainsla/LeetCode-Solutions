@@ -31,6 +31,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -57,6 +58,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1980-find-unique-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3531-count-covered-buildings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
@@ -192,6 +194,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
@@ -309,6 +312,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
