@@ -57,6 +57,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -81,6 +82,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0002-add-two-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -190,6 +192,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
