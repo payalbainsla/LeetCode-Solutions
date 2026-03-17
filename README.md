@@ -32,6 +32,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -160,6 +161,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -184,6 +186,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1382-balance-a-binary-search-tree](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -295,6 +298,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Heap (Priority Queue)
