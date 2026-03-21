@@ -55,6 +55,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3634-minimum-removals-to-balance-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -152,6 +153,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0443-string-compression](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3643-flip-square-submatrix-vertically](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1975-maximum-matrix-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3643-flip-square-submatrix-vertically](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
