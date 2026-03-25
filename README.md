@@ -9,6 +9,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0001-two-sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -150,6 +151,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0011-container-with-most-water](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
