@@ -234,6 +234,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2573-find-the-string-with-lcp](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3606-coupon-code-validator](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
