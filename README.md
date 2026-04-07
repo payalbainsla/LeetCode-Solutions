@@ -280,6 +280,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2751-robot-collisions](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2751-robot-collisions) |
@@ -432,6 +433,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## String Matching
 |  |
 | ------- |
