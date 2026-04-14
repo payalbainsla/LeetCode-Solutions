@@ -43,6 +43,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1980-find-unique-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2463-minimum-total-distance-traveled](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
@@ -189,6 +190,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1727-largest-submatrix-with-rearrangements](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2463-minimum-total-distance-traveled](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -306,6 +308,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2463-minimum-total-distance-traveled](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
