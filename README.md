@@ -44,6 +44,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
@@ -254,6 +255,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [2075-decode-the-slanted-ciphertext](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
