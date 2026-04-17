@@ -75,6 +75,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3721-longest-balanced-subarray-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3721-longest-balanced-subarray-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3432-count-partitions-with-even-sum-difference](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3623-count-number-of-trapezoids-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
 | ------- |
