@@ -81,6 +81,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3721-longest-balanced-subarray-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -338,6 +339,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -392,6 +394,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3546-equal-sum-grid-partition-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
