@@ -17,6 +17,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0238-product-of-array-except-self](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0396-rotate-function](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
@@ -123,6 +124,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0013-roman-to-integer](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -325,6 +327,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
