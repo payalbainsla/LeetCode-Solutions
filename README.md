@@ -260,6 +260,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0657-robot-return-to-origin](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -480,6 +481,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
