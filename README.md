@@ -72,6 +72,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3583-count-special-triplets](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
@@ -196,6 +197,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0443-string-compression](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -218,6 +220,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3433-count-mentions-per-user](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
@@ -228,6 +231,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -247,6 +251,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Geometry
 |  |
 | ------- |
