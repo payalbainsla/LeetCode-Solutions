@@ -154,6 +154,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -243,6 +244,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0334-increasing-triplet-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -272,6 +274,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0696-count-binary-substrings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -511,4 +514,8 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
