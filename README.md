@@ -26,6 +26,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0874-walking-robot-simulation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1260-shift-2d-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -325,6 +326,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0067-add-binary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -396,6 +398,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
