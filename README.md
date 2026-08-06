@@ -48,6 +48,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1980-find-unique-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -100,6 +101,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2615-sum-of-distances](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -217,6 +219,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [1727-largest-submatrix-with-rearrangements](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2463-minimum-total-distance-traveled](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -393,6 +396,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0169-majority-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3583-count-special-triplets](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
