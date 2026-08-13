@@ -11,6 +11,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0015-3sum](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -345,6 +346,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0788-rotated-digits) |
