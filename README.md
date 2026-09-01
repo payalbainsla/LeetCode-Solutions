@@ -27,6 +27,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0874-walking-robot-simulation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1390-four-divisors) |
@@ -101,6 +102,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0645-set-mismatch](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
