@@ -94,6 +94,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
