@@ -95,6 +95,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3838-weighted-word-mapping](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -336,6 +337,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3714-longest-balanced-substring-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3903-smallest-stable-index-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
