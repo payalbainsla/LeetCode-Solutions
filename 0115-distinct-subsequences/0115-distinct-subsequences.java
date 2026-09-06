@@ -1,23 +1,18 @@
 class Solution {
     public int numDistinct(String s, String t) {
         int m = s.length(), n = t.length();
-        // dp[i][j]: number of distinct subsequences of s[0..i) equal to t[0..j)
-        long[][] dp = new long[m + 1][n + 1];
-        
-        // Base case: empty t can be formed exactly one way (delete all chars)
-        for (int i = 0; i <= m; i++) {
-            dp[i][0] = 1;
-        }
+        long[] dp = new long[n + 1];
+        dp[0] = 1;
         
         for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                dp[i][j] = dp[i - 1][j]; // don't use s[i-1]
+            // Traverse j backwards so dp[j-1] still refers to the previous row's value
+            for (int j = n; j >= 1; j--) {
                 if (s.charAt(i - 1) == t.charAt(j - 1)) {
-                    dp[i][j] += dp[i - 1][j - 1]; // use s[i-1] to match t[j-1]
+                    dp[j] += dp[j - 1];
                 }
             }
         }
         
-        return (int) dp[m][n];
+        return (int) dp[n];
     }
 }
