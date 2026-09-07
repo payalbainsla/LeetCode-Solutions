@@ -293,6 +293,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0696-count-binary-substrings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -369,6 +370,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0396-rotate-function](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0799-champagne-tower) |
+| [0940-distinct-subsequences-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
