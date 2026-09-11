@@ -70,6 +70,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
+| [3483-unique-3-digit-even-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3531-count-covered-buildings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -115,6 +116,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [2615-sum-of-distances](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3531-count-covered-buildings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -168,6 +170,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [0002-add-two-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -415,6 +418,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
