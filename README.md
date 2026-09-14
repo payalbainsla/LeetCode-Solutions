@@ -149,6 +149,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [0396-rotate-function](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1390-four-divisors](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
@@ -289,6 +290,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3623-count-number-of-trapezoids-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
