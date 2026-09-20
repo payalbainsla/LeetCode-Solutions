@@ -339,6 +339,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -383,6 +384,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [2751-robot-collisions](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
+| [3498-reverse-degree-of-a-string](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
