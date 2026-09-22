@@ -75,6 +75,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3483-unique-3-digit-even-numbers](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3524-find-x-value-of-array-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3531-count-covered-buildings](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -167,6 +168,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 | [3432-count-partitions-with-even-sum-difference](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3524-find-x-value-of-array-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -505,6 +507,7 @@ Solving LeetCode problems one day at a time! This repo documents my learning jou
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
+| [3525-find-x-value-of-array-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/payalbainsla/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bit Manipulation
